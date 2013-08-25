@@ -1,0 +1,35 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch HelloWorld
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   HelloWorld/AndroidManifest.xml
+#	new file:   HelloWorld/Cordova-HelloWorld
+#	new file:   HelloWorld/assets/www/cordova.js
+#	new file:   HelloWorld/assets/www/index.html
+#	new file:   HelloWorld/gen/org/examples/phonegap/example/BuildConfig.java
+#	new file:   HelloWorld/gen/org/examples/phonegap/example/R.java
+#	new file:   HelloWorld/ic_launcher-web.png
+#	new file:   HelloWorld/libs/android-support-v4.jar
+#	new file:   HelloWorld/libs/cordova-2.8.1.jar
+#	new file:   HelloWorld/proguard-project.txt
+#	new file:   HelloWorld/project.properties
+#	new file:   HelloWorld/res/drawable-hdpi/ic_launcher.png
+#	new file:   HelloWorld/res/drawable-mdpi/ic_launcher.png
+#	new file:   HelloWorld/res/drawable-xhdpi/ic_launcher.png
+#	new file:   HelloWorld/res/drawable-xxhdpi/ic_launcher.png
+#	new file:   HelloWorld/res/layout/activity_main.xml
+#	new file:   HelloWorld/res/menu/main.xml
+#	new file:   HelloWorld/res/values-sw600dp/dimens.xml
+#	new file:   HelloWorld/res/values-sw720dp-land/dimens.xml
+#	new file:   HelloWorld/res/values-v11/styles.xml
+#	new file:   HelloWorld/res/values-v14/styles.xml
+#	new file:   HelloWorld/res/values/dimens.xml
+#	new file:   HelloWorld/res/values/strings.xml
+#	new file:   HelloWorld/res/values/styles.xml
+#	new file:   HelloWorld/res/xml/config.xml
+#	new file:   HelloWorld/src/org/examples/phonegap/example/MainActivity.java
+#
+
